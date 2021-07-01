@@ -24,5 +24,5 @@
 
 ### 联系我
 ----
-**更多校招经验，每天直播分享可加小姐姐【wx:cz1625358265】，备注"github面经"**<br/>
+**更多校招经验，每天直播分享，扫描可加，备注"github面经"**<br/>
 ![image](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
