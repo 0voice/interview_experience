@@ -171,9 +171,24 @@
 <h3 id="22">金主爸爸信息</h3> 
 
 ---
-零声教育推出9.9元，校招特训营：内容包含岗位投递渠道，技术方向选择（Java，c++，前端，算法，运维，测试，嵌入式），简历书写规范，面试准备事宜，企业选择，薪资谈判。<br/>
-点击 [秋招春招提前批大厂面试指导 简历梳理 offer选择 技术方向指导课程](https://ke.qq.com/course/3582758?flowToken=1037496)
+零声教育，专注于c/c++Linux后台服务器开发架构技术提升。<br/>
+ [分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1024646)
 
-另外每天8点还有技术直播分享，分享内容：Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK。<br/>
-扫码联系小姐姐，获得直播链接。<br/>
+福利资料获取：
+1.十份大厂面经视频分享
+  ①秋招如何斩获字节&快手offer
+  ②小厂到腾讯60Woffer的逆袭
+  ③如何一次跳槽涨薪12W
+  ④清华毕业生跨专业如何拿到美团&字节offer
+  ⑤普通二本应届生的B站之路
+  ⑥非科班毕业如何进京东，拿到28W岗位offer
+  ⑦外包裸辞6个月，成功入职金山实现薪资翻倍
+  ⑧三年社招如何能够拿到35K&360offer
+  ⑨毕业半年，离职挑战华为offer
+  ⑩30天突击学习，拿下高薪offer涨薪10W
+
+2.对标腾讯T9职级技术要求的后台开发学习图谱<br/>
+![大纲部分图.png](https://img11.360buyimg.com/ddimg/jfs/t1/37229/14/15620/149708/60e6a78eE5241eec1/d0f0c9d9aa1e4d99.png)
+
+扫码联系橙子，免费领取干货资料【备注：GitHub面经】<br/>
 ![barcode](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
