@@ -1,5 +1,5 @@
 
-### 2021年最新整理，200位校招面经分享，包含微软，华为，腾讯，字节，阿里，360，tplink，好未来，网易，搜狗，wps等，研发岗位，C++研发岗位，安全岗位。。持续更新中
+### 2024年最新整理，200位校招面经分享，包含微软，华为，腾讯，字节，阿里，360，tplink，好未来，网易，搜狗，wps等，研发岗位，C++研发岗位，安全岗位。。持续更新中
 ----
 
 ##### [2021华为实习生软开C++一面二面面经](https://github.com/0voice/interview_experience/blob/main/2021%E5%8D%8E%E4%B8%BA%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%BD%AF%E5%BC%80C%2B%2B%E4%B8%80%E9%9D%A2%E4%BA%8C%E9%9D%A2%E9%9D%A2%E7%BB%8F/2021%E5%8D%8E%E4%B8%BA%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%BD%AF%E5%BC%80C%2B%2B%E4%B8%80%E9%9D%A2%E4%BA%8C%E9%9D%A2%E9%9D%A2%E7%BB%8F)
@@ -165,42 +165,13 @@
 ##### [百度123面](https://github.com/0voice/interview_experience/blob/main/%E7%99%BE%E5%BA%A6123%E9%9D%A2/%E7%99%BE%E5%BA%A6123%E9%9D%A2)
 <br/>
 <br/>
-<br/>
-
-
-<h3 id="22">金主爸爸信息</h3> 
+<h3 >零领工作</h3> 
 
 ---
-#### 零声教育，专注于c/c++Linux后台服务器开发架构技术提升。<br>
-[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1024646)
 
-福利资料获取：
-#### 1、十份大厂面经视频分享
+##### 实时提供，每周发布北京，上海，广州，深圳，杭州，南京，合肥，武汉，长沙，重庆，成都，西安，厦门的c/c++，golang方向的招聘岗位信息。 包含校招，社招，实习岗位， 面经，八股，简历
 
-  ① 秋招如何斩获字节&快手offer<br>
-  
-  ② 小厂到腾讯60Woffer的逆袭<br>
-  
-  ③ 如何一次跳槽涨薪12W<br>
-  
-  ④ 清华毕业生跨专业如何拿到美团&字节offer<br>
-  
-  ⑤ 普通二本应届生的B站之路<br>
-  
-  ⑥ 非科班毕业如何进京东，拿到28W岗位offer<br>
-  
-  ⑦ 外包裸辞6个月，成功入职金山实现薪资翻倍<br>
-  
-  ⑧ 三年社招如何能够拿到35K&360offer<br>
-  
-  ⑨ 毕业半年，离职挑战华为offer<br>
-  
-  ⑩ 30天突击学习，拿下高薪offer涨薪10W
-  
-#### 2、对标腾讯T9职级技术要求的后台开发学习图谱
+<img src="https://img.0voice.com/public/0e59910091576beaebe20f303357edf7.jpg" alt="零领工作" style="width:300px;height:300px;">
 
-![大纲部分图.png](https://img11.360buyimg.com/ddimg/jfs/t1/37229/14/15620/149708/60e6a78eE5241eec1/d0f0c9d9aa1e4d99.png)
-
-#### 扫码联系橙子，免费领取干货资料【备注：GitHub面经】<br>
-![barcode](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
-
+<br/>
+<br/>
